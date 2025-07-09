@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack blog application built with React and Express, featuring a modern tech stack with TypeScript, Tailwind CSS, and Drizzle ORM. The application provides a clean, responsive interface for reading and managing blog posts with a comprehensive comment system.
+This is a modern personal blog website built with React and Express, featuring a minimalist design and comprehensive blogging functionality. The application includes a homepage with featured posts, individual post pages with markdown rendering, an interactive comments system, and a rich text editor for creating new posts. Built with TypeScript, Tailwind CSS, and a complete REST API backend.
 
 ## User Preferences
 
